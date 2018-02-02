@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-01-26 12:01:10
+ * @version $Id$
+ */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #dec;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: .12rem
+}
+
+#wrap {
+    height: 350px;
+    overflow: hidden;
+    position: relative;
+}
+
+#wrap li{
+    float: left;
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+}
+#wrap li img {
+    height: 100%;
+    width: 100%;
+}
+#wrap .left{
+    position: absolute;
+    left: 15px;
+    top: 35%;
+    cursor: pointer;
+}
+#wrap .right{
+    position: absolute;
+    right: 15px;
+    top: 35%;
+     cursor: pointer;
+}
+
+#img{
+    width: 200px;
+    height: 200px;
+    background: url(../images/1.jpg);
+}

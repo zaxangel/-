@@ -1,0 +1,21 @@
+﻿[
+{
+    "name": "萌宠1",
+    "url": "./src/images/1.jpg"
+},
+{
+    "name": "萌宠2",
+    "url": "./src/images/2.jpg"
+},
+{
+    "name": "萌宠3",
+    "url": "./src/images/3.jpg"
+},
+{
+    "name": "萌宠4",
+    "url": "./src/images/4.jpg"
+},
+{
+    "name": "萌宠5",
+    "url": "./src/images/5.jpg"
+}]
